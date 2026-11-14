@@ -5,7 +5,7 @@ Presets in this repo are community-made. Credit belongs to their authors; if you
 ## Included from GitHub repositories
 
 - `Other plugins/Morgan (MIT samples from YoavBZ)/` - sample presets from https://github.com/YoavBZ/neuraldsp-preset-generator (MIT License).
-- https://github.com/JorgeRuizDev/archetype-nolly-x - song-themed Nolly X presets (Deftones, Pink Floyd, RHCP ...) (no license stated; included at the maintainer's request to collect them - removable on request).
+- https://github.com/JorgeRuizDev/archetype-nolly-x - song-themed Nolly X presets (Deftones, Pink Floyd, RHCP ...) (no license stated; removable on request).
 - https://github.com/demonsery/neural-dsp-presets - Abasi, Cory Wong and Gojira presets (no license stated; removable on request).
 - https://github.com/vian21/toneparse - a few sample presets (no license stated; removable on request).
 
