@@ -8,16 +8,19 @@ Archetype Abasi/Bands/Polyphia/Polyphiaish (2).xml,Archetype Abasi,Bands,Polyphi
 Archetype Abasi/Bands/System of a Down - Serj/Serj Tankian - Empty Walls.xml,Archetype Abasi,Bands,System of a Down - Serj,Serj Tankian - Empty Walls,old,clean,0.24
 Archetype Abasi/Bands/TesseracT/tesseract lead.xml,Archetype Abasi,Bands,TesseracT,tesseract lead,old,rhythm,0.37
 Archetype Abasi/Clean/Ambient Suite.xml,Archetype Abasi,Clean,,Ambient Suite,old,clean,0.36
+Archetype Abasi/Clean/Bright and Tight.xml,Archetype Abasi,Clean,,Bright and Tight,old,rhythm,0.23
 Archetype Abasi/Clean/CDC CLEAN HOLSDWORTH (2).xml,Archetype Abasi,Clean,,CDC CLEAN HOLSDWORTH (2),old,clean,0.37
 Archetype Abasi/Clean/Charlie Robbins - Dreamy Lead.xml,Archetype Abasi,Clean,,Charlie Robbins - Dreamy Lead,old,lead,0.17
 Archetype Abasi/Clean/Charlie Robbins - Girth Town USA.xml,Archetype Abasi,Clean,,Charlie Robbins - Girth Town USA,old,rhythm,0.06
 Archetype Abasi/Clean/Charlie Robbins - Low Gain.xml,Archetype Abasi,Clean,,Charlie Robbins - Low Gain,old,clean,0.3
 Archetype Abasi/Clean/Charlie Robbins - SLAP.xml,Archetype Abasi,Clean,,Charlie Robbins - SLAP,old,clean,0.61
 Archetype Abasi/Clean/Charlie Robbins - Selective Picking.xml,Archetype Abasi,Clean,,Charlie Robbins - Selective Picking,old,clean,0.41
+Archetype Abasi/Clean/Clean Fingerpick Chords.xml,Archetype Abasi,Clean,,Clean Fingerpick Chords,old,clean,0.39
 Archetype Abasi/Clean/Clean Lead (2).xml,Archetype Abasi,Clean,,Clean Lead (2),old,clean,0.4
 Archetype Abasi/Clean/Crystal Shimmer.xml,Archetype Abasi,Clean,,Crystal Shimmer,old,clean,0.5
 Archetype Abasi/Clean/DTS RTM (2).xml,Archetype Abasi,Clean,,DTS RTM (2),old,rhythm,0.15
 Archetype Abasi/Clean/Dreamy Cleany (2).xml,Archetype Abasi,Clean,,Dreamy Cleany (2),old,clean,0.33
+Archetype Abasi/Clean/Expressive Lead.xml,Archetype Abasi,Clean,,Expressive Lead,old,rhythm,0.37
 Archetype Abasi/Clean/Forest (2).xml,Archetype Abasi,Clean,,Forest (2),old,clean,0.26
 Archetype Abasi/Clean/Language (2).xml,Archetype Abasi,Clean,,Language (2),old,clean,0.4
 Archetype Abasi/Clean/Pop-Punk Rhythm (2).xml,Archetype Abasi,Clean,,Pop-Punk Rhythm (2),old,rhythm,0.07
@@ -37,7 +40,9 @@ Archetype Abasi/Clean/zip_Monoriff.xml,Archetype Abasi,Clean,,zip_Monoriff,old,r
 Archetype Abasi/Clean/zip_Monoselect.xml,Archetype Abasi,Clean,,zip_Monoselect,old,rhythm,0.2
 Archetype Abasi/Distortion/Charlie Robbins - Heavy Rhythm.xml,Archetype Abasi,Distortion,,Charlie Robbins - Heavy Rhythm,old,lead,0.7
 Archetype Abasi/Distortion/FILTH.xml,Archetype Abasi,Distortion,,FILTH,old,,
+Archetype Abasi/Distortion/Fat Lead.xml,Archetype Abasi,Distortion,,Fat Lead,old,clean,0.61
 Archetype Abasi/Distortion/Leadus in Fabula.xml,Archetype Abasi,Distortion,,Leadus in Fabula,old,lead,0.54
+Archetype Abasi/Distortion/Nasty Rhythm.xml,Archetype Abasi,Distortion,,Nasty Rhythm,old,lead,0.36
 Archetype Abasi/Distortion/RHY 3 (2).xml,Archetype Abasi,Distortion,,RHY 3 (2),old,clean,0.24
 Archetype Abasi/Distortion/Relaxed Lead (2).xml,Archetype Abasi,Distortion,,Relaxed Lead (2),old,clean,0.24
 Archetype Abasi/Distortion/Steven Ward - Playing with Fire.xml,Archetype Abasi,Distortion,,Steven Ward - Playing with Fire,old,clean,0.71
@@ -76,6 +81,7 @@ Archetype Cory Wong X/Clean/Clean Rhythm Guitar.xml,Archetype Cory Wong X,Clean,
 Archetype Cory Wong X/Clean/Clean SoftAmbience.xml,Archetype Cory Wong X,Clean,,Clean SoftAmbience,new,snob,0.0
 Archetype Cory Wong X/Clean/Clean Trebly.xml,Archetype Cory Wong X,Clean,,Clean Trebly,new,snob,0.0
 Archetype Cory Wong X/Clean/Clean with Shimmer.xml,Archetype Cory Wong X,Clean,,Clean with Shimmer,new,funk,
+Archetype Cory Wong X/Clean/Crystal Clean Solo.xml,Archetype Cory Wong X,Clean,,Crystal Clean Solo,old,,
 Archetype Cory Wong X/Clean/Dark Delay Shimmer.xml,Archetype Cory Wong X,Clean,,Dark Delay Shimmer,new,snob,0.0
 Archetype Cory Wong X/Clean/Decrease The Vol Knob.xml,Archetype Cory Wong X,Clean,,Drecrease the vol Knob,new,funk,
 Archetype Cory Wong X/Clean/Deep Wet (bus).xml,Archetype Cory Wong X,Clean,,Deep Wet,new,snob,0.0
@@ -97,10 +103,15 @@ Archetype Cory Wong X/Clean/Manhattan (2).xml,Archetype Cory Wong X,Clean,,Manha
 Archetype Cory Wong X/Clean/Massive Reverb Lead.xml,Archetype Cory Wong X,Clean,,Massive Reverb Lead,new,snob,0.0
 Archetype Cory Wong X/Clean/Nameless Streets.xml,Archetype Cory Wong X,Clean,,Nameless Streets,old,,
 Archetype Cory Wong X/Clean/NewWave 80s Chorus.xml,Archetype Cory Wong X,Clean,,NewWave 80s Chorus,new,funk,
+Archetype Cory Wong X/Clean/No BS Lead.xml,Archetype Cory Wong X,Clean,,No BS Lead,old,,
+Archetype Cory Wong X/Clean/Oncle Jazz.xml,Archetype Cory Wong X,Clean,,Oncle Jazz,old,,
 Archetype Cory Wong X/Clean/PostPunk DarkChorus.xml,Archetype Cory Wong X,Clean,,PostPunk DarkChorus,new,snob,0.0
 Archetype Cory Wong X/Clean/Quiet.xml,Archetype Cory Wong X,Clean,,Quiet,new,funk,
 Archetype Cory Wong X/Clean/Rabea BF 5.xml,Archetype Cory Wong X,Clean,,Rabea BF 5,old,,
+Archetype Cory Wong X/Clean/Retro Sci-Fi.xml,Archetype Cory Wong X,Clean,,Retro Sci-Fi,old,,
 Archetype Cory Wong X/Clean/Reverby Lead.xml,Archetype Cory Wong X,Clean,,Reverby Lead,new,funk,
+Archetype Cory Wong X/Clean/Scratchy Rhythm V2.xml,Archetype Cory Wong X,Clean,,Scratchy Rhythm V2,old,,
+Archetype Cory Wong X/Clean/Scratchy Rhythm.xml,Archetype Cory Wong X,Clean,,Scratchy Rhythm,old,,
 Archetype Cory Wong X/Clean/Shimmer Ocean.xml,Archetype Cory Wong X,Clean,,Shimmer Ocean,new,funk,
 Archetype Cory Wong X/Clean/Slow Blues.xml,Archetype Cory Wong X,Clean,,Slow Blues,old,,
 Archetype Cory Wong X/Clean/Smooth lead.xml,Archetype Cory Wong X,Clean,,Smooth lead,old,,
@@ -166,6 +177,7 @@ Archetype Gojira/Clean/Clean Rvb Mirth (2).xml,Archetype Gojira,Clean,,Clean Rvb
 Archetype Gojira/Clean/Clean as Can Be.xml,Archetype Gojira,Clean,,Clean as Can Be,new,clean,
 Archetype Gojira/Clean/DROWN.xml,Archetype Gojira,Clean,,dROWN,new,rhythm,
 Archetype Gojira/Clean/ETIDPB_STRAT_B_T7.xml,Archetype Gojira,Clean,,ETIDPB_STRAT_B_T7,old,lead,0.21
+Archetype Gojira/Clean/Eerie Fifths.xml,Archetype Gojira,Clean,,Eerie Fifths,old,rhythm,0.5
 Archetype Gojira/Clean/Flo Ambient Clean.xml,Archetype Gojira,Clean,,Flo Ambient Clean,old,rhythm,0.68
 Archetype Gojira/Clean/Fuzzboom (2).xml,Archetype Gojira,Clean,,Fuzzboom (2),old,rhythm,0.5
 Archetype Gojira/Clean/Katana.xml,Archetype Gojira,Clean,,Katana,new,rhythm,
@@ -184,6 +196,7 @@ Archetype Gojira/Clean/zip_Grungy Chorus.xml,Archetype Gojira,Clean,,zip_Grungy 
 Archetype Gojira/Clean/zip_SocialD.xml,Archetype Gojira,Clean,,Punk,new,rhythm,
 Archetype Gojira/Clean/zip_Turn on the Octave for more filth....xml,Archetype Gojira,Clean,,zip_Turn on the Octave for more filth...,old,rhythm,0.5
 Archetype Gojira/Clean/zip_Windy Synth.xml,Archetype Gojira,Clean,,zip_Windy Synth,old,rhythm,0.5
+Archetype Gojira/Distortion/300 Percent Density.xml,Archetype Gojira,Distortion,,300 Percent Density,old,,
 Archetype Gojira/Distortion/ALEARZ 2.xml,Archetype Gojira,Distortion,,ALEARZ 2,old,lead,0.72
 Archetype Gojira/Distortion/ALEARZ 3.xml,Archetype Gojira,Distortion,,ALEARZ 3,old,lead,0.72
 Archetype Gojira/Distortion/ALEARZ 4.xml,Archetype Gojira,Distortion,,ALEARZ 4,old,lead,0.72
@@ -208,6 +221,7 @@ Archetype Gojira/Distortion/HLB (headset).xml,Archetype Gojira,Distortion,,HLB (
 Archetype Gojira/Distortion/HLB spread.xml,Archetype Gojira,Distortion,,HLB spread,old,,
 Archetype Gojira/Distortion/HLB.xml,Archetype Gojira,Distortion,,HLB,old,,
 Archetype Gojira/Distortion/Heavy Artillery.xml,Archetype Gojira,Distortion,,Heavy Articulate (AILD),new,rhythm,
+Archetype Gojira/Distortion/In Your Face (2).xml,Archetype Gojira,Distortion,,In Your Face (2),old,,
 Archetype Gojira/Distortion/In Your Face.xml,Archetype Gojira,Distortion,,In Your Face,new,lead,
 Archetype Gojira/Distortion/Modern metalcore NDSP.xml,Archetype Gojira,Distortion,,Modern metalcore NDSP,new,lead,
 Archetype Gojira/Distortion/Novelists High Gain Lead.xml,Archetype Gojira,Distortion,,Novelists High Gain Lead,old,lead,0.24
@@ -278,6 +292,7 @@ Archetype Mateus Asato/Clean/Spain Solo - DGK.xml,Archetype Mateus Asato,Clean,,
 Archetype Mateus Asato/Clean/TUYU.xml,Archetype Mateus Asato,Clean,,TUYU,new,clean,
 Archetype Mateus Asato/Clean/Wet Driven Chime.xml,Archetype Mateus Asato,Clean,,Wet Driven Chime,new,clean,
 Archetype Mateus Asato/Clean/Yussef Dayes In Japan.xml,Archetype Mateus Asato,Clean,,Yussef Dayes In Japan,new,crunch,
+Archetype Mateus Asato/Clean/custom_clean.xml,Archetype Mateus Asato,Clean,,Clean,new,crunch,
 Archetype Mateus Asato/Clean/kumiko.xml,Archetype Mateus Asato,Clean,,kumiko,new,crunch,
 Archetype Mateus Asato/Clean/timmons.xml,Archetype Mateus Asato,Clean,,timmons,new,crunch,
 Archetype Mateus Asato/Distortion/8-Bit.xml,Archetype Mateus Asato,Distortion,,8-Bit,new,crunch,
@@ -286,6 +301,7 @@ Archetype Mateus Asato/Distortion/Concrete v3.xml,Archetype Mateus Asato,Distort
 Archetype Mateus Asato/Distortion/Mateus Asato Dragonball.xml,Archetype Mateus Asato,Distortion,,2 bonecos de DragonBall,new,clean,
 Archetype Mateus Asato/Distortion/Mk.gee.xml,Archetype Mateus Asato,Distortion,,mkgee,new,crunch,
 Archetype Mateus Asato/Distortion/Stoner Rock Lead.xml,Archetype Mateus Asato,Distortion,,Stoner Rock Lead,new,lead,
+Archetype Mateus Asato/Distortion/Tasty Lead Tone.xml,Archetype Mateus Asato,Distortion,,Tasty Lead Tone,new,lead,
 Archetype Mateus Asato/Distortion/That Nuno Thingy (Asato).xml,Archetype Mateus Asato,Distortion,,That Nuno Thingy,new,lead,
 Archetype Mateus Asato/Distortion/Zach Seal lead shi.xml,Archetype Mateus Asato,Distortion,,Zach Seal lead shi,new,crunch,
 Archetype Mateus Asato/Distortion/lead tone.xml,Archetype Mateus Asato,Distortion,,The lead tone,new,lead,
@@ -323,6 +339,7 @@ Archetype Misha Mansoor X/Distortion/invent animate.xml,Archetype Misha Mansoor 
 Archetype Misha Mansoor X/Distortion/marigold.xml,Archetype Misha Mansoor X,Distortion,,marigold,new,lead,0.42
 Archetype Misha Mansoor X/Distortion/the mara effect tone.xml,Archetype Misha Mansoor X,Distortion,,the mara effect tone,new,lead,0.57
 Archetype Misha Mansoor X/Distortion/veilofmaya.xml,Archetype Misha Mansoor X,Distortion,,veilofmaya,new,lead,0.55
+Archetype Nolly X/Acoustic/00 - Acoustic Chime Strum.xml,Archetype Nolly X,Acoustic,,00 - Acoustic Chime Strum,new,clean,0.35
 Archetype Nolly X/Bands/Blink-182/1999 Blink 182.xml,Archetype Nolly X,Bands,Blink-182,1999 Blink 182,new,,
 Archetype Nolly X/Bands/Deftones/Deftones - Be Quiet and Drive.xml,Archetype Nolly X,Bands,Deftones,Deftones - Be Quiet and Drive,old,rhythm,0.6
 Archetype Nolly X/Bands/Deftones/Deftones - My Own Summer.xml,Archetype Nolly X,Bands,Deftones,Deftones - My Own Summer,old,rhythm,0.52
@@ -344,6 +361,16 @@ Archetype Nolly X/Bands/Trivium/trivium rhythm (2).xml,Archetype Nolly X,Bands,T
 Archetype Nolly X/Bands/Van Halen/EVH 90s.xml,Archetype Nolly X,Bands,Van Halen,EVH 90s,old,rhythm,0.6
 Archetype Nolly X/Bands/Van Halen/Eruption.xml,Archetype Nolly X,Bands,Van Halen,Eruption,old,crunch,0.5
 Archetype Nolly X/Bands/Van Halen/Van Halen 1 (2).xml,Archetype Nolly X,Bands,Van Halen,Van Halen 1,new,crunch,0.58
+Archetype Nolly X/Clean/00 - Intro Guitar.xml,Archetype Nolly X,Clean,,00 - Intro Guitar,new,clean,0.77
+Archetype Nolly X/Clean/00 - Intro and Verse Clean.xml,Archetype Nolly X,Clean,,00 - Intro and Verse Clean,new,clean,0.38
+Archetype Nolly X/Clean/00 - Main Twang Riff.xml,Archetype Nolly X,Clean,,00 - Main Twang Riff,new,crunch,0.35
+Archetype Nolly X/Clean/00 - Pompeii First Solo.xml,Archetype Nolly X,Clean,,00 - Pompeii First Solo,new,crunch,0.44
+Archetype Nolly X/Clean/00 - Unplugged Clean Chorus.xml,Archetype Nolly X,Clean,,00 - Unplugged Clean Chorus,new,clean,0.45
+Archetype Nolly X/Clean/01 - Chorus Full Clean.xml,Archetype Nolly X,Clean,,01 - Chorus Full Clean,new,clean,0.46
+Archetype Nolly X/Clean/01 - Pushed Lo-Fi Climax.xml,Archetype Nolly X,Clean,,01 - Pushed Lo-Fi Climax,new,clean,0.7
+Archetype Nolly X/Clean/01 - Unplugged Solo and Chorus Drive.xml,Archetype Nolly X,Clean,,&,new,clean,0.5
+Archetype Nolly X/Clean/01 - Verse Ambient Clean.xml,Archetype Nolly X,Clean,,01 - Verse Ambient Clean,new,clean,0.5
+Archetype Nolly X/Clean/03 - Intro Dynamic Crunch.xml,Archetype Nolly X,Clean,,03 - Intro Dynamic Crunch,new,crunch,0.46
 Archetype Nolly X/Clean/Ambient Overload.xml,Archetype Nolly X,Clean,,Solo Sizzle,new,snob,1.0
 Archetype Nolly X/Clean/Angels (2).xml,Archetype Nolly X,Clean,,Angels,new,crunch,0.5
 Archetype Nolly X/Clean/Angels Delay Lead (2).xml,Archetype Nolly X,Clean,,Angels Delay Lead,new,crunch,0.38
@@ -376,8 +403,14 @@ Archetype Nolly X/Clean/OS - Rhythm - Rock 1 - A2C2 - 160-414.xml,Archetype Noll
 Archetype Nolly X/Clean/OS - Rhythm - Rock 1 - A2C3 - 57.xml,Archetype Nolly X,Clean,,OS - Rhythm - Rock 1 - A2C3 - 57,old,crunch,0.48
 Archetype Nolly X/Clean/OS - Rhythm - Rock 1 - A2C4 - 57-57.xml,Archetype Nolly X,Clean,,OS - Rhythm - Rock 1 - A2C4 - 57-57,old,crunch,0.48
 Archetype Nolly X/Clean/Serenity (2).xml,Archetype Nolly X,Clean,,Serenity,new,crunch,0.24
+Archetype Nolly X/Distortion/00 - Be Quiet and Drive (Far Away).xml,Archetype Nolly X,Distortion,,$,new,rhythm,0.45
+Archetype Nolly X/Distortion/00 - Heavy Riff and Chorus.xml,Archetype Nolly X,Distortion,,00 - Heavy Riff and Chorus,new,crunch,0.52
+Archetype Nolly X/Distortion/01 - Chorus and Driving Blues.xml,Archetype Nolly X,Distortion,,01 - Chorus and Driving Blues,new,crunch,0.55
+Archetype Nolly X/Distortion/02 - Outro Wall of Sound.xml,Archetype Nolly X,Distortion,,02 - Outro Wall of Sound,new,crunch,0.66
+Archetype Nolly X/Distortion/02 - Solo DS-2 Lead.xml,Archetype Nolly X,Distortion,,02 - Solo DS-2 Lead,new,crunch,0.58
 Archetype Nolly X/Distortion/5150 Rythm Preset.xml,Archetype Nolly X,Distortion,,5150 Rythm Preset,old,rhythm,0.5
 Archetype Nolly X/Distortion/Alex Is On Fire.xml,Archetype Nolly X,Distortion,,Alex Is On Fire,new,rhythm,0.44
+Archetype Nolly X/Distortion/All-Purpose Metal Rhythm.xml,Archetype Nolly X,Distortion,,All-Purpose Metal Rhythm,new,rhythm,0.44
 Archetype Nolly X/Distortion/Arch Echo (2).xml,Archetype Nolly X,Distortion,,Arch Echo (2),old,crunch,0.66
 Archetype Nolly X/Distortion/BFRiff Division (2).xml,Archetype Nolly X,Distortion,,BFRiff Division (2),old,rhythm,0.4
 Archetype Nolly X/Distortion/Bleenk (2).xml,Archetype Nolly X,Distortion,,Bleenk,new,crunch,0.59
@@ -1036,6 +1069,7 @@ Other plugins/Darkglass Ultra/Unsorted/Doki - Scooped Rock Bass.xml,Other plugin
 Other plugins/Fortin Cali/Distortion/Early Grave.xml,Other plugins/Fortin Cali,Distortion,,Early Grave,old,,
 Other plugins/Fortin Cali/Distortion/Fab - Kill m all.xml,Other plugins/Fortin Cali,Distortion,,Fab - Kill m all,old,,
 Other plugins/Fortin Cali/Distortion/Sunset Strip '84.xml,Other plugins/Fortin Cali,Distortion,,Sunset Strip '84,old,,
+Other plugins/Fortin Cali/Distortion/fortin.xml,Other plugins/Fortin Cali,Distortion,,fortin,old,clean,0.44
 Other plugins/Fortin Cali/Distortion/zip_Lynch lead rhythm.xml,Other plugins/Fortin Cali,Distortion,,zip_Lynch lead rhythm,old,,
 Other plugins/Fortin NTS/Distortion/Karol - NTS Rhythm.xml,Other plugins/Fortin NTS,Distortion,,Karol - NTS Rhythm,old,,
 Other plugins/Fortin NTS/Unsorted/Log Redneck LTD Br PU tone knob bright.xml,Other plugins/Fortin NTS,Unsorted,,Log Redneck LTD Br PU tone knob bright,other,,
@@ -1044,9 +1078,9 @@ Other plugins/Mesa Mark IIC+/Bands/Metallica/Master of Puppets (Rasmussen Flemin
 Other plugins/Mesa Mark IIC+/Unsorted/Down the Middle Mayer.xml,Other plugins/Mesa Mark IIC+,Unsorted,,Down the Middle Mayer,old,,
 Other plugins/Mesa Mark IIC+/Unsorted/Images and Words Rhythm.xml,Other plugins/Mesa Mark IIC+,Unsorted,,Images and Words Rhythm,old,,
 Other plugins/Mesa Mark IIC+/Unsorted/Rasmussen Notes-IIC+.xml,Other plugins/Mesa Mark IIC+,Unsorted,,Rasmussen Notes-IIC+,old,,
-Other plugins/Morgan (MIT samples from YoavBZ)/Clean/Example Clean PR12.xml,Other plugins/Morgan (MIT samples from YoavBZ),Clean,,Example Clean PR12,new,pr12,
-Other plugins/Morgan (MIT samples from YoavBZ)/Distortion/AC20 Atlas Topology.xml,Other plugins/Morgan (MIT samples from YoavBZ),Distortion,,AC20 Atlas Topology,new,ac20,
-Other plugins/Morgan (MIT samples from YoavBZ)/Distortion/SW50R Atlas Topology.xml,Other plugins/Morgan (MIT samples from YoavBZ),Distortion,,SW50R Atlas Topology,new,sw50r,
+Other plugins/Morgan (MIT samples from YoavBZ)/Clean/Example Clean PR12.xml,Other plugins/Morgan (MIT samples from YoavBZ),Clean,,Example Clean PR12,new,ac20,
+Other plugins/Morgan (MIT samples from YoavBZ)/Distortion/AC20 Atlas Topology.xml,Other plugins/Morgan (MIT samples from YoavBZ),Distortion,,AC20 Atlas Topology,new,sw50r,
+Other plugins/Morgan (MIT samples from YoavBZ)/Distortion/SW50R Atlas Topology.xml,Other plugins/Morgan (MIT samples from YoavBZ),Distortion,,SW50R Atlas Topology,new,pr12,
 Other plugins/Omega Granophyre/Clean/These Cleans.xml,Other plugins/Omega Granophyre,Clean,,These Cleans,old,,
 Other plugins/Omega Granophyre/Distortion/Omega Chainsaw.xml,Other plugins/Omega Granophyre,Distortion,,Omega Chainsaw,old,,
 Other plugins/Soldano SLO-100/Bands/Pink Floyd/Comfortably Numb Clean.xml,Other plugins/Soldano SLO-100,Bands,Pink Floyd,Comfortably Numb Clean,new,,
@@ -1067,6 +1101,7 @@ Other plugins/Soldano SLO-100/Distortion/Pastor of Muppets.xml,Other plugins/Sol
 Other plugins/Soldano SLO-100/Distortion/RZK.xml,Other plugins/Soldano SLO-100,Distortion,,RZK,old,,
 Other plugins/Soldano SLO-100/Distortion/Sandman.xml,Other plugins/Soldano SLO-100,Distortion,,Sandman,old,,
 Other plugins/Soldano SLO-100/Distortion/Unchained.xml,Other plugins/Soldano SLO-100,Distortion,,User Main 1,new,,
+Other plugins/Tone King Imperial MKII/Clean/The Toan.xml,Other plugins/Tone King Imperial MKII,Clean,,The Toan,old,clean,0.5
 Other plugins/parallax/Clean/FUgaZ-1 (2).xml,Other plugins/parallax,Clean,,FUgaZ-1 (2),old,,
 Other plugins/parallax/Distortion/Riffage (2).xml,Other plugins/parallax,Distortion,,Riffage (2),old,,
 Other plugins/parallax/Distortion/Riffz (2).xml,Other plugins/parallax,Distortion,,Riffz (2),old,,

@@ -90,6 +90,16 @@
   "amp_gain": 0.36
  },
  {
+  "path": "Archetype Abasi/Clean/Bright and Tight.xml",
+  "product": "Archetype Abasi",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "Bright and Tight",
+  "file_format": "old",
+  "amp_channel": "rhythm",
+  "amp_gain": 0.23
+ },
+ {
   "path": "Archetype Abasi/Clean/CDC CLEAN HOLSDWORTH (2).xml",
   "product": "Archetype Abasi",
   "category": "Clean",
@@ -150,6 +160,16 @@
   "amp_gain": 0.41
  },
  {
+  "path": "Archetype Abasi/Clean/Clean Fingerpick Chords.xml",
+  "product": "Archetype Abasi",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "Clean Fingerpick Chords",
+  "file_format": "old",
+  "amp_channel": "clean",
+  "amp_gain": 0.39
+ },
+ {
   "path": "Archetype Abasi/Clean/Clean Lead (2).xml",
   "product": "Archetype Abasi",
   "category": "Clean",
@@ -188,6 +208,16 @@
   "file_format": "old",
   "amp_channel": "clean",
   "amp_gain": 0.33
+ },
+ {
+  "path": "Archetype Abasi/Clean/Expressive Lead.xml",
+  "product": "Archetype Abasi",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "Expressive Lead",
+  "file_format": "old",
+  "amp_channel": "rhythm",
+  "amp_gain": 0.37
  },
  {
   "path": "Archetype Abasi/Clean/Forest (2).xml",
@@ -380,6 +410,16 @@
   "amp_gain": null
  },
  {
+  "path": "Archetype Abasi/Distortion/Fat Lead.xml",
+  "product": "Archetype Abasi",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "Fat Lead",
+  "file_format": "old",
+  "amp_channel": "clean",
+  "amp_gain": 0.61
+ },
+ {
   "path": "Archetype Abasi/Distortion/Leadus in Fabula.xml",
   "product": "Archetype Abasi",
   "category": "Distortion",
@@ -388,6 +428,16 @@
   "file_format": "old",
   "amp_channel": "lead",
   "amp_gain": 0.54
+ },
+ {
+  "path": "Archetype Abasi/Distortion/Nasty Rhythm.xml",
+  "product": "Archetype Abasi",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "Nasty Rhythm",
+  "file_format": "old",
+  "amp_channel": "lead",
+  "amp_gain": 0.36
  },
  {
   "path": "Archetype Abasi/Distortion/RHY 3 (2).xml",
@@ -770,6 +820,16 @@
   "amp_gain": null
  },
  {
+  "path": "Archetype Cory Wong X/Clean/Crystal Clean Solo.xml",
+  "product": "Archetype Cory Wong X",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "Crystal Clean Solo",
+  "file_format": "old",
+  "amp_channel": "",
+  "amp_gain": null
+ },
+ {
   "path": "Archetype Cory Wong X/Clean/Dark Delay Shimmer.xml",
   "product": "Archetype Cory Wong X",
   "category": "Clean",
@@ -980,6 +1040,26 @@
   "amp_gain": null
  },
  {
+  "path": "Archetype Cory Wong X/Clean/No BS Lead.xml",
+  "product": "Archetype Cory Wong X",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "No BS Lead",
+  "file_format": "old",
+  "amp_channel": "",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Cory Wong X/Clean/Oncle Jazz.xml",
+  "product": "Archetype Cory Wong X",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "Oncle Jazz",
+  "file_format": "old",
+  "amp_channel": "",
+  "amp_gain": null
+ },
+ {
   "path": "Archetype Cory Wong X/Clean/PostPunk DarkChorus.xml",
   "product": "Archetype Cory Wong X",
   "category": "Clean",
@@ -1010,6 +1090,16 @@
   "amp_gain": null
  },
  {
+  "path": "Archetype Cory Wong X/Clean/Retro Sci-Fi.xml",
+  "product": "Archetype Cory Wong X",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "Retro Sci-Fi",
+  "file_format": "old",
+  "amp_channel": "",
+  "amp_gain": null
+ },
+ {
   "path": "Archetype Cory Wong X/Clean/Reverby Lead.xml",
   "product": "Archetype Cory Wong X",
   "category": "Clean",
@@ -1017,6 +1107,26 @@
   "preset_name": "Reverby Lead",
   "file_format": "new",
   "amp_channel": "funk",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Cory Wong X/Clean/Scratchy Rhythm V2.xml",
+  "product": "Archetype Cory Wong X",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "Scratchy Rhythm V2",
+  "file_format": "old",
+  "amp_channel": "",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Cory Wong X/Clean/Scratchy Rhythm.xml",
+  "product": "Archetype Cory Wong X",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "Scratchy Rhythm",
+  "file_format": "old",
+  "amp_channel": "",
   "amp_gain": null
  },
  {
@@ -1670,6 +1780,16 @@
   "amp_gain": 0.21
  },
  {
+  "path": "Archetype Gojira/Clean/Eerie Fifths.xml",
+  "product": "Archetype Gojira",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "Eerie Fifths",
+  "file_format": "old",
+  "amp_channel": "rhythm",
+  "amp_gain": 0.5
+ },
+ {
   "path": "Archetype Gojira/Clean/Flo Ambient Clean.xml",
   "product": "Archetype Gojira",
   "category": "Clean",
@@ -1848,6 +1968,16 @@
   "file_format": "old",
   "amp_channel": "rhythm",
   "amp_gain": 0.5
+ },
+ {
+  "path": "Archetype Gojira/Distortion/300 Percent Density.xml",
+  "product": "Archetype Gojira",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "300 Percent Density",
+  "file_format": "old",
+  "amp_channel": "",
+  "amp_gain": null
  },
  {
   "path": "Archetype Gojira/Distortion/ALEARZ 2.xml",
@@ -2087,6 +2217,16 @@
   "preset_name": "Heavy Articulate (AILD)",
   "file_format": "new",
   "amp_channel": "rhythm",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Gojira/Distortion/In Your Face (2).xml",
+  "product": "Archetype Gojira",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "In Your Face (2)",
+  "file_format": "old",
+  "amp_channel": "",
   "amp_gain": null
  },
  {
@@ -2790,6 +2930,16 @@
   "amp_gain": null
  },
  {
+  "path": "Archetype Mateus Asato/Clean/custom_clean.xml",
+  "product": "Archetype Mateus Asato",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "Clean",
+  "file_format": "new",
+  "amp_channel": "crunch",
+  "amp_gain": null
+ },
+ {
   "path": "Archetype Mateus Asato/Clean/kumiko.xml",
   "product": "Archetype Mateus Asato",
   "category": "Clean",
@@ -2865,6 +3015,16 @@
   "category": "Distortion",
   "band": "",
   "preset_name": "Stoner Rock Lead",
+  "file_format": "new",
+  "amp_channel": "lead",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Mateus Asato/Distortion/Tasty Lead Tone.xml",
+  "product": "Archetype Mateus Asato",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "Tasty Lead Tone",
   "file_format": "new",
   "amp_channel": "lead",
   "amp_gain": null
@@ -3240,6 +3400,16 @@
   "amp_gain": 0.55
  },
  {
+  "path": "Archetype Nolly X/Acoustic/00 - Acoustic Chime Strum.xml",
+  "product": "Archetype Nolly X",
+  "category": "Acoustic",
+  "band": "",
+  "preset_name": "00 - Acoustic Chime Strum",
+  "file_format": "new",
+  "amp_channel": "clean",
+  "amp_gain": 0.35
+ },
+ {
   "path": "Archetype Nolly X/Bands/Blink-182/1999 Blink 182.xml",
   "product": "Archetype Nolly X",
   "category": "Bands",
@@ -3448,6 +3618,106 @@
   "file_format": "new",
   "amp_channel": "crunch",
   "amp_gain": 0.58
+ },
+ {
+  "path": "Archetype Nolly X/Clean/00 - Intro Guitar.xml",
+  "product": "Archetype Nolly X",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "00 - Intro Guitar",
+  "file_format": "new",
+  "amp_channel": "clean",
+  "amp_gain": 0.77
+ },
+ {
+  "path": "Archetype Nolly X/Clean/00 - Intro and Verse Clean.xml",
+  "product": "Archetype Nolly X",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "00 - Intro and Verse Clean",
+  "file_format": "new",
+  "amp_channel": "clean",
+  "amp_gain": 0.38
+ },
+ {
+  "path": "Archetype Nolly X/Clean/00 - Main Twang Riff.xml",
+  "product": "Archetype Nolly X",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "00 - Main Twang Riff",
+  "file_format": "new",
+  "amp_channel": "crunch",
+  "amp_gain": 0.35
+ },
+ {
+  "path": "Archetype Nolly X/Clean/00 - Pompeii First Solo.xml",
+  "product": "Archetype Nolly X",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "00 - Pompeii First Solo",
+  "file_format": "new",
+  "amp_channel": "crunch",
+  "amp_gain": 0.44
+ },
+ {
+  "path": "Archetype Nolly X/Clean/00 - Unplugged Clean Chorus.xml",
+  "product": "Archetype Nolly X",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "00 - Unplugged Clean Chorus",
+  "file_format": "new",
+  "amp_channel": "clean",
+  "amp_gain": 0.45
+ },
+ {
+  "path": "Archetype Nolly X/Clean/01 - Chorus Full Clean.xml",
+  "product": "Archetype Nolly X",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "01 - Chorus Full Clean",
+  "file_format": "new",
+  "amp_channel": "clean",
+  "amp_gain": 0.46
+ },
+ {
+  "path": "Archetype Nolly X/Clean/01 - Pushed Lo-Fi Climax.xml",
+  "product": "Archetype Nolly X",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "01 - Pushed Lo-Fi Climax",
+  "file_format": "new",
+  "amp_channel": "clean",
+  "amp_gain": 0.7
+ },
+ {
+  "path": "Archetype Nolly X/Clean/01 - Unplugged Solo and Chorus Drive.xml",
+  "product": "Archetype Nolly X",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "&",
+  "file_format": "new",
+  "amp_channel": "clean",
+  "amp_gain": 0.5
+ },
+ {
+  "path": "Archetype Nolly X/Clean/01 - Verse Ambient Clean.xml",
+  "product": "Archetype Nolly X",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "01 - Verse Ambient Clean",
+  "file_format": "new",
+  "amp_channel": "clean",
+  "amp_gain": 0.5
+ },
+ {
+  "path": "Archetype Nolly X/Clean/03 - Intro Dynamic Crunch.xml",
+  "product": "Archetype Nolly X",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "03 - Intro Dynamic Crunch",
+  "file_format": "new",
+  "amp_channel": "crunch",
+  "amp_gain": 0.46
  },
  {
   "path": "Archetype Nolly X/Clean/Ambient Overload.xml",
@@ -3770,6 +4040,56 @@
   "amp_gain": 0.24
  },
  {
+  "path": "Archetype Nolly X/Distortion/00 - Be Quiet and Drive (Far Away).xml",
+  "product": "Archetype Nolly X",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "$",
+  "file_format": "new",
+  "amp_channel": "rhythm",
+  "amp_gain": 0.45
+ },
+ {
+  "path": "Archetype Nolly X/Distortion/00 - Heavy Riff and Chorus.xml",
+  "product": "Archetype Nolly X",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "00 - Heavy Riff and Chorus",
+  "file_format": "new",
+  "amp_channel": "crunch",
+  "amp_gain": 0.52
+ },
+ {
+  "path": "Archetype Nolly X/Distortion/01 - Chorus and Driving Blues.xml",
+  "product": "Archetype Nolly X",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "01 - Chorus and Driving Blues",
+  "file_format": "new",
+  "amp_channel": "crunch",
+  "amp_gain": 0.55
+ },
+ {
+  "path": "Archetype Nolly X/Distortion/02 - Outro Wall of Sound.xml",
+  "product": "Archetype Nolly X",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "02 - Outro Wall of Sound",
+  "file_format": "new",
+  "amp_channel": "crunch",
+  "amp_gain": 0.66
+ },
+ {
+  "path": "Archetype Nolly X/Distortion/02 - Solo DS-2 Lead.xml",
+  "product": "Archetype Nolly X",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "02 - Solo DS-2 Lead",
+  "file_format": "new",
+  "amp_channel": "crunch",
+  "amp_gain": 0.58
+ },
+ {
   "path": "Archetype Nolly X/Distortion/5150 Rythm Preset.xml",
   "product": "Archetype Nolly X",
   "category": "Distortion",
@@ -3785,6 +4105,16 @@
   "category": "Distortion",
   "band": "",
   "preset_name": "Alex Is On Fire",
+  "file_format": "new",
+  "amp_channel": "rhythm",
+  "amp_gain": 0.44
+ },
+ {
+  "path": "Archetype Nolly X/Distortion/All-Purpose Metal Rhythm.xml",
+  "product": "Archetype Nolly X",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "All-Purpose Metal Rhythm",
   "file_format": "new",
   "amp_channel": "rhythm",
   "amp_gain": 0.44
@@ -10370,6 +10700,16 @@
   "amp_gain": null
  },
  {
+  "path": "Other plugins/Fortin Cali/Distortion/fortin.xml",
+  "product": "Other plugins/Fortin Cali",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "fortin",
+  "file_format": "old",
+  "amp_channel": "clean",
+  "amp_gain": 0.44
+ },
+ {
   "path": "Other plugins/Fortin Cali/Distortion/zip_Lynch lead rhythm.xml",
   "product": "Other plugins/Fortin Cali",
   "category": "Distortion",
@@ -10456,7 +10796,7 @@
   "band": "",
   "preset_name": "Example Clean PR12",
   "file_format": "new",
-  "amp_channel": "pr12",
+  "amp_channel": "ac20",
   "amp_gain": null
  },
  {
@@ -10466,7 +10806,7 @@
   "band": "",
   "preset_name": "AC20 Atlas Topology",
   "file_format": "new",
-  "amp_channel": "ac20",
+  "amp_channel": "sw50r",
   "amp_gain": null
  },
  {
@@ -10476,7 +10816,7 @@
   "band": "",
   "preset_name": "SW50R Atlas Topology",
   "file_format": "new",
-  "amp_channel": "sw50r",
+  "amp_channel": "pr12",
   "amp_gain": null
  },
  {
@@ -10678,6 +11018,16 @@
   "file_format": "new",
   "amp_channel": "",
   "amp_gain": null
+ },
+ {
+  "path": "Other plugins/Tone King Imperial MKII/Clean/The Toan.xml",
+  "product": "Other plugins/Tone King Imperial MKII",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "The Toan",
+  "file_format": "old",
+  "amp_channel": "clean",
+  "amp_gain": 0.5
  },
  {
   "path": "Other plugins/parallax/Clean/FUgaZ-1 (2).xml",
