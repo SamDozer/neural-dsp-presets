@@ -53,3 +53,7 @@ The parsing was cross-checked with [headdirt/ndsp_preset_tool](https://github.co
 - Where both expose the active amp slot, they agree on all 358 modern presets; the slot is available in 1,024 (tool) vs 1,026 (this repo's parser) files.
 - 8 presets are plain-text XML (Fortin Nameless, Fortin NTS, Darkglass Ultra). Neither parser read them at first; `neuraldsp_presets.py` now parses them with a real XML parser (gain attributes), so 6 of the 8 can be classified from their gain (the other 2 have no gain attribute and stay `Unsorted`).
 - The other tool is built to *edit* presets (`ndsp_preset.py set preset.xml rhythmAmp.rhythmGain=0.55`), which is useful for tweaking but does not change what a preset sounds like on its own - so no presets were altered.
+
+## Output levels vary a lot
+
+Reading the `outputGain` setting with ndsp_preset_tool across the collection (737 presets expose it): it ranges from -16.8 dB to +15.2 dB (median 0 dB), with 69 presets above +6 dB and 76 below -6 dB. Within a single product the spread is roughly 12-29 dB. Preset level also depends on gain, EQ and cab, so don't expect matched loudness - turn the plugin's output down if a preset is much louder than the rest. No preset in this repo was modified.
