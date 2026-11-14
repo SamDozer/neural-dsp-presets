@@ -52,6 +52,23 @@ def features(path):
     """Return a dict describing the preset's sound-relevant settings."""
     data = open(path, "rb").read()
     F = dict(fmt=None, name=None, tags=[], chan=None, gain=None, pedal=0.0, sel=None, chans=[], kv={}, hash=None)
+    if data.lstrip()[:5] == b"<?xml":                                # plain-text XML (Fortin Nameless/NTS, Darkglass ...)
+        import xml.etree.ElementTree as ET
+        try:
+            root = ET.fromstring(data.decode("utf8", "ignore").lstrip("﻿").encode("utf8"))
+        except ET.ParseError:
+            return F
+        attrs = {}
+        for el in root.iter():
+            for k, v in el.attrib.items():
+                attrs.setdefault(k, v)
+        F["fmt"], F["kv"] = "xml", attrs
+        F["hash"] = hashlib.md5(repr(sorted((k, v) for k, v in attrs.items() if "name" not in k.lower())).encode()).hexdigest()
+        gains = [num(attrs[k]) for k in ("gain1", "gain2", "drive", "amp_gain", "gain_a") if num(attrs.get(k)) is not None]
+        if gains:
+            F["gain"], F["chan"] = max(gains), root.tag
+        F["sel"] = num(attrs.get("channel"))
+        return F
     if data.count(b"PARAM") > 20:                                    # old layout
         F["fmt"] = "old"
         p = old_params(data)
@@ -119,6 +136,8 @@ def sound_class(F, product=""):
     sel, g, ped = F["sel"], F["gain"], F["pedal"]
     if F["fmt"] is None:
         return None, "unreadable"
+    if F["fmt"] == "xml":                                             # text-XML plugins: no amp slots, judge by gain
+        return ("Distortion", "high gain") if (g or 0) >= 0.5 else ("Clean", "low gain") if g is not None else (None, "no gain info")
     if "fortin" in product.lower() or "nameless" in product.lower():
         return ("Clean", "low gain") if (g is not None and g < 0.15 and ped < 0.3) else ("Distortion", "nameless amp")
     if sel is None or sel > 10:

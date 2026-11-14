@@ -340,7 +340,7 @@ Archetype Misha Mansoor X/Distortion/marigold.xml,Archetype Misha Mansoor X,Dist
 Archetype Misha Mansoor X/Distortion/the mara effect tone.xml,Archetype Misha Mansoor X,Distortion,,the mara effect tone,new,lead,0.57
 Archetype Misha Mansoor X/Distortion/veilofmaya.xml,Archetype Misha Mansoor X,Distortion,,veilofmaya,new,lead,0.55
 Archetype Nolly X/Acoustic/00 - Acoustic Chime Strum.xml,Archetype Nolly X,Acoustic,,00 - Acoustic Chime Strum,new,clean,0.35
-Archetype Nolly X/Bands/Blink-182/1999 Blink 182.xml,Archetype Nolly X,Bands,Blink-182,1999 Blink 182,new,,
+Archetype Nolly X/Bands/Blink-182/1999 Blink 182.xml,Archetype Nolly X,Bands,Blink-182,1999 Blink 182,other,,
 Archetype Nolly X/Bands/Deftones/Deftones - Be Quiet and Drive.xml,Archetype Nolly X,Bands,Deftones,Deftones - Be Quiet and Drive,old,rhythm,0.6
 Archetype Nolly X/Bands/Deftones/Deftones - My Own Summer.xml,Archetype Nolly X,Bands,Deftones,Deftones - My Own Summer,old,rhythm,0.52
 Archetype Nolly X/Bands/Disturbed/Disturbed - Down With The Sickness.xml,Archetype Nolly X,Bands,Disturbed,Disturbed - Down With The Sickness,old,rhythm,0.52
@@ -509,7 +509,7 @@ Archetype Nolly X/Distortion/high gain lead guitar (2).xml,Archetype Nolly X,Dis
 Archetype Nolly X/Distortion/zip_Blue Angel Nolly Lead.xml,Archetype Nolly X,Distortion,,zip_Blue Angel Nolly Lead,old,crunch,0.87
 Archetype Nolly X/Distortion/zip_Blue Angel Nolly Rhythm.xml,Archetype Nolly X,Distortion,,zip_Blue Angel Nolly Rhythm,old,crunch,0.76
 Archetype Nolly X/Distortion/zip_Metal Rhythm.xml,Archetype Nolly X,Distortion,,zip_Metal Rhythm,old,rhythm,0.62
-Archetype Nolly/Bands/Blink-182/1999 Blink 182.xml,Archetype Nolly,Bands,Blink-182,1999 Blink 182,new,,
+Archetype Nolly/Bands/Blink-182/1999 Blink 182.xml,Archetype Nolly,Bands,Blink-182,1999 Blink 182,other,,
 Archetype Nolly/Bands/Deftones/Deftones - Be Quiet and Drive.xml,Archetype Nolly,Bands,Deftones,Deftones - Be Quiet and Drive,old,rhythm,0.6
 Archetype Nolly/Bands/Deftones/Deftones - My Own Summer.xml,Archetype Nolly,Bands,Deftones,Deftones - My Own Summer,old,rhythm,0.52
 Archetype Nolly/Bands/Disturbed/Disturbed - Down With The Sickness.xml,Archetype Nolly,Bands,Disturbed,Disturbed - Down With The Sickness,old,rhythm,0.52
@@ -1024,13 +1024,13 @@ Archetype Tim Henson X/Distortion/zip_TNWSKY-(STRAT)-M-T8_3.2 (2).xml,Archetype 
 Archetype Tim Henson X/Distortion/zip_Tatsu's Boutique 1  (2).xml,Archetype Tim Henson X,Distortion,,zip_Tatsu's Boutique 1  (2),old,rhythm,0.7
 Archetype Tim Henson X/Distortion/zip_Tight Rhy (2).xml,Archetype Tim Henson X,Distortion,,zip_Tight Rhy (2),old,lead,0.66
 Archetype Tim Henson X/Distortion/zip_Ye Tune (Gm) (2).xml,Archetype Tim Henson X,Distortion,,zip_Ye Tune (Gm) (2),old,rhythm,0.69
-Fortin Nameless Suite X/Bands/Alice in Chains/Alice In Chains - Man In the Box.xml,Fortin Nameless Suite X,Bands,Alice in Chains,Alice In Chains - Man In the Box,other,,
+Fortin Nameless Suite X/Bands/Alice in Chains/Alice In Chains - Man In the Box.xml,Fortin Nameless Suite X,Bands,Alice in Chains,Alice In Chains - Man In the Box,xml,neuraldsp_fortin_nameless_preset,0.56
 Fortin Nameless Suite X/Bands/As Blood Runs Black/Face Your Phobias (As Blood Runs Black).xml,Fortin Nameless Suite X,Bands,As Blood Runs Black,Face Yur Phobias,new,nameless,0.74
 Fortin Nameless Suite X/Bands/Fall of Troy/FCPREMIX (Fall of Troy).xml,Fortin Nameless Suite X,Bands,Fall of Troy,FCPBAYB,new,nameless,0.0
 Fortin Nameless Suite X/Bands/Gojira/Obliterating Chugger.xml,Fortin Nameless Suite X,Bands,Gojira,Obliterating Chugger,old,,
 Fortin Nameless Suite X/Bands/Meshuggah/Bleed - Meshuggah.xml,Fortin Nameless Suite X,Bands,Meshuggah,Bleed,new,nameless,0.52
 Fortin Nameless Suite X/Bands/Meshuggah/Djent Meshuggah Inspired (7s).xml,Fortin Nameless Suite X,Bands,Meshuggah,!,new,nameless,0.62
-Fortin Nameless Suite X/Bands/Meshuggah/Meshuggah - Clockwork for Modern Vintage.xml,Fortin Nameless Suite X,Bands,Meshuggah,Meshuggah - Clockwork for Modern Vintage,other,,
+Fortin Nameless Suite X/Bands/Meshuggah/Meshuggah - Clockwork for Modern Vintage.xml,Fortin Nameless Suite X,Bands,Meshuggah,Meshuggah - Clockwork for Modern Vintage,xml,neuraldsp_fortin_nameless_preset,0.72
 Fortin Nameless Suite X/Bands/Rush/The Universal Dream (Rush - Limelight).xml,Fortin Nameless Suite X,Bands,Rush,The Universal Dream,new,nameless,0.4
 Fortin Nameless Suite X/Clean/HAPAS 628 - Clean and Ambient.xml,Fortin Nameless Suite X,Clean,,HAPAS 628 - Clean and Ambient,new,nameless,0.0
 Fortin Nameless Suite X/Clean/Stratospheric Cleans.xml,Fortin Nameless Suite X,Clean,,Stratospheric Cleans,new,nameless,0.0
@@ -1055,7 +1055,7 @@ Fortin Nameless Suite X/Distortion/Karol - NAMELESS Rhythm.xml,Fortin Nameless S
 Fortin Nameless Suite X/Distortion/LES PAUL BRUTAL MODERN.xml,Fortin Nameless Suite X,Distortion,,LES PAUL BRUTAL MODERN,new,nameless,0.66
 Fortin Nameless Suite X/Distortion/Lead 1 - 184-57.xml,Fortin Nameless Suite X,Distortion,,Lead 1 - 184-57,old,,
 Fortin Nameless Suite X/Distortion/Lead 2 - 121-906.xml,Fortin Nameless Suite X,Distortion,,Lead 2 - 121-906,old,,
-Fortin Nameless Suite X/Distortion/Log Ruin LTD Br PU tone knob bright.xml,Fortin Nameless Suite X,Distortion,,Log Ruin LTD Br PU tone knob bright,other,,
+Fortin Nameless Suite X/Distortion/Log Ruin LTD Br PU tone knob bright.xml,Fortin Nameless Suite X,Distortion,,Log Ruin LTD Br PU tone knob bright,xml,neuraldsp_fortin_nameless_preset,0.84
 Fortin Nameless Suite X/Distortion/METALCORE SERRATED.xml,Fortin Nameless Suite X,Distortion,,METALCORE SERRATED,new,nameless,0.59
 Fortin Nameless Suite X/Distortion/Marshall The Fire Pup (CR 04).xml,Fortin Nameless Suite X,Distortion,,Marshall The Fire Pup (CR 04),new,nameless,0.53
 Fortin Nameless Suite X/Distortion/Punk Hardcore.xml,Fortin Nameless Suite X,Distortion,,Punk Hardcore Street Charge,new,nameless,0.32
@@ -1063,24 +1063,24 @@ Fortin Nameless Suite X/Distortion/SUPER CHONK.xml,Fortin Nameless Suite X,Disto
 Fortin Nameless Suite X/Distortion/Thall me.xml,Fortin Nameless Suite X,Distortion,,Thall me,new,nameless,0.72
 Fortin Nameless Suite X/Distortion/They Just Dropped Default 2.xml,Fortin Nameless Suite X,Distortion,,They Just Dropped Default 2,new,nameless,0.62
 Other plugins/Darkglass Ultra/Clean/Doki - Clean Rock.xml,Other plugins/Darkglass Ultra,Clean,,Doki - Clean Rock,old,,
-Other plugins/Darkglass Ultra/Distortion/Heavy - Rhy - Submission - Bot - Ophidian’s Reach.xml,Other plugins/Darkglass Ultra,Distortion,,Heavy - Rhy - Submission - Bot - Ophidian’s Reach,other,,
-Other plugins/Darkglass Ultra/Distortion/Heavy - Rhy - Submission - Top - Ophidian’s Reach.xml,Other plugins/Darkglass Ultra,Distortion,,Heavy - Rhy - Submission - Top - Ophidian’s Reach,other,,
-Other plugins/Darkglass Ultra/Unsorted/Doki - Scooped Rock Bass.xml,Other plugins/Darkglass Ultra,Unsorted,,Doki - Scooped Rock Bass,other,,
+Other plugins/Darkglass Ultra/Clean/Doki - Scooped Rock Bass.xml,Other plugins/Darkglass Ultra,Clean,,Doki - Scooped Rock Bass,xml,DarkglassUltraPreset,0.31
+Other plugins/Darkglass Ultra/Distortion/Heavy - Rhy - Submission - Bot - Ophidian’s Reach.xml,Other plugins/Darkglass Ultra,Distortion,,Heavy - Rhy - Submission - Bot - Ophidian’s Reach,xml,DarkglassUltraPreset,0.83
+Other plugins/Darkglass Ultra/Distortion/Heavy - Rhy - Submission - Top - Ophidian’s Reach.xml,Other plugins/Darkglass Ultra,Distortion,,Heavy - Rhy - Submission - Top - Ophidian’s Reach,xml,DarkglassUltraPreset,0.88
 Other plugins/Fortin Cali/Distortion/Early Grave.xml,Other plugins/Fortin Cali,Distortion,,Early Grave,old,,
 Other plugins/Fortin Cali/Distortion/Fab - Kill m all.xml,Other plugins/Fortin Cali,Distortion,,Fab - Kill m all,old,,
 Other plugins/Fortin Cali/Distortion/Sunset Strip '84.xml,Other plugins/Fortin Cali,Distortion,,Sunset Strip '84,old,,
 Other plugins/Fortin Cali/Distortion/fortin.xml,Other plugins/Fortin Cali,Distortion,,fortin,old,clean,0.44
 Other plugins/Fortin Cali/Distortion/zip_Lynch lead rhythm.xml,Other plugins/Fortin Cali,Distortion,,zip_Lynch lead rhythm,old,,
 Other plugins/Fortin NTS/Distortion/Karol - NTS Rhythm.xml,Other plugins/Fortin NTS,Distortion,,Karol - NTS Rhythm,old,,
-Other plugins/Fortin NTS/Unsorted/Log Redneck LTD Br PU tone knob bright.xml,Other plugins/Fortin NTS,Unsorted,,Log Redneck LTD Br PU tone knob bright,other,,
-Other plugins/Fortin NTS/Unsorted/Vogg Wannabe GTR RHY 1.xml,Other plugins/Fortin NTS,Unsorted,,Vogg Wannabe GTR RHY 1,other,,
+Other plugins/Fortin NTS/Unsorted/Log Redneck LTD Br PU tone knob bright.xml,Other plugins/Fortin NTS,Unsorted,,Log Redneck LTD Br PU tone knob bright,xml,,
+Other plugins/Fortin NTS/Unsorted/Vogg Wannabe GTR RHY 1.xml,Other plugins/Fortin NTS,Unsorted,,Vogg Wannabe GTR RHY 1,xml,,
 Other plugins/Mesa Mark IIC+/Bands/Metallica/Master of Puppets (Rasmussen Fleming Notes).xml,Other plugins/Mesa Mark IIC+,Bands,Metallica,Master of Puppets (Rasmussen Fleming Notes),old,,
 Other plugins/Mesa Mark IIC+/Unsorted/Down the Middle Mayer.xml,Other plugins/Mesa Mark IIC+,Unsorted,,Down the Middle Mayer,old,,
 Other plugins/Mesa Mark IIC+/Unsorted/Images and Words Rhythm.xml,Other plugins/Mesa Mark IIC+,Unsorted,,Images and Words Rhythm,old,,
 Other plugins/Mesa Mark IIC+/Unsorted/Rasmussen Notes-IIC+.xml,Other plugins/Mesa Mark IIC+,Unsorted,,Rasmussen Notes-IIC+,old,,
-Other plugins/Morgan (MIT samples from YoavBZ)/Clean/Example Clean PR12.xml,Other plugins/Morgan (MIT samples from YoavBZ),Clean,,Example Clean PR12,new,ac20,
-Other plugins/Morgan (MIT samples from YoavBZ)/Distortion/AC20 Atlas Topology.xml,Other plugins/Morgan (MIT samples from YoavBZ),Distortion,,AC20 Atlas Topology,new,sw50r,
-Other plugins/Morgan (MIT samples from YoavBZ)/Distortion/SW50R Atlas Topology.xml,Other plugins/Morgan (MIT samples from YoavBZ),Distortion,,SW50R Atlas Topology,new,pr12,
+Other plugins/Morgan (MIT samples from YoavBZ)/Clean/Example Clean PR12.xml,Other plugins/Morgan (MIT samples from YoavBZ),Clean,,Example Clean PR12,new,pr12,
+Other plugins/Morgan (MIT samples from YoavBZ)/Distortion/AC20 Atlas Topology.xml,Other plugins/Morgan (MIT samples from YoavBZ),Distortion,,AC20 Atlas Topology,new,ac20,
+Other plugins/Morgan (MIT samples from YoavBZ)/Distortion/SW50R Atlas Topology.xml,Other plugins/Morgan (MIT samples from YoavBZ),Distortion,,SW50R Atlas Topology,new,sw50r,
 Other plugins/Omega Granophyre/Clean/These Cleans.xml,Other plugins/Omega Granophyre,Clean,,These Cleans,old,,
 Other plugins/Omega Granophyre/Distortion/Omega Chainsaw.xml,Other plugins/Omega Granophyre,Distortion,,Omega Chainsaw,old,,
 Other plugins/Soldano SLO-100/Bands/Pink Floyd/Comfortably Numb Clean.xml,Other plugins/Soldano SLO-100,Bands,Pink Floyd,Comfortably Numb Clean,new,,

@@ -44,3 +44,12 @@ python tools/download_presets.py 31 nolly_presets    # topic id = number in the 
 ```
 
 Be polite to the server (the script already throttles) and respect the authors' wishes.
+
+## Cross-check against another parser
+
+The parsing was cross-checked with [headdirt/ndsp_preset_tool](https://github.com/headdirt/ndsp_preset_tool) (GPL-3.0, a read/diff/edit library) on all 1,110 presets in this repo:
+
+- Both parsers agree on the layout of every file they can read: 711 legacy and 389 modern.
+- Where both expose the active amp slot, they agree on all 358 modern presets; the slot is available in 1,024 (tool) vs 1,026 (this repo's parser) files.
+- 8 presets are plain-text XML (Fortin Nameless, Fortin NTS, Darkglass Ultra). Neither parser read them at first; `neuraldsp_presets.py` now parses them with a real XML parser (gain attributes), so 6 of the 8 can be classified from their gain (the other 2 have no gain attribute and stay `Unsorted`).
+- The other tool is built to *edit* presets (`ndsp_preset.py set preset.xml rhythmAmp.rhythmGain=0.55`), which is useful for tweaking but does not change what a preset sounds like on its own - so no presets were altered.

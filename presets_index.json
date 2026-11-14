@@ -3415,7 +3415,7 @@
   "category": "Bands",
   "band": "Blink-182",
   "preset_name": "1999 Blink 182",
-  "file_format": "new",
+  "file_format": "other",
   "amp_channel": "",
   "amp_gain": null
  },
@@ -5105,7 +5105,7 @@
   "category": "Bands",
   "band": "Blink-182",
   "preset_name": "1999 Blink 182",
-  "file_format": "new",
+  "file_format": "other",
   "amp_channel": "",
   "amp_gain": null
  },
@@ -10255,9 +10255,9 @@
   "category": "Bands",
   "band": "Alice in Chains",
   "preset_name": "Alice In Chains - Man In the Box",
-  "file_format": "other",
-  "amp_channel": "",
-  "amp_gain": null
+  "file_format": "xml",
+  "amp_channel": "neuraldsp_fortin_nameless_preset",
+  "amp_gain": 0.56
  },
  {
   "path": "Fortin Nameless Suite X/Bands/As Blood Runs Black/Face Your Phobias (As Blood Runs Black).xml",
@@ -10315,9 +10315,9 @@
   "category": "Bands",
   "band": "Meshuggah",
   "preset_name": "Meshuggah - Clockwork for Modern Vintage",
-  "file_format": "other",
-  "amp_channel": "",
-  "amp_gain": null
+  "file_format": "xml",
+  "amp_channel": "neuraldsp_fortin_nameless_preset",
+  "amp_gain": 0.72
  },
  {
   "path": "Fortin Nameless Suite X/Bands/Rush/The Universal Dream (Rush - Limelight).xml",
@@ -10565,9 +10565,9 @@
   "category": "Distortion",
   "band": "",
   "preset_name": "Log Ruin LTD Br PU tone knob bright",
-  "file_format": "other",
-  "amp_channel": "",
-  "amp_gain": null
+  "file_format": "xml",
+  "amp_channel": "neuraldsp_fortin_nameless_preset",
+  "amp_gain": 0.84
  },
  {
   "path": "Fortin Nameless Suite X/Distortion/METALCORE SERRATED.xml",
@@ -10640,14 +10640,24 @@
   "amp_gain": null
  },
  {
+  "path": "Other plugins/Darkglass Ultra/Clean/Doki - Scooped Rock Bass.xml",
+  "product": "Other plugins/Darkglass Ultra",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "Doki - Scooped Rock Bass",
+  "file_format": "xml",
+  "amp_channel": "DarkglassUltraPreset",
+  "amp_gain": 0.31
+ },
+ {
   "path": "Other plugins/Darkglass Ultra/Distortion/Heavy - Rhy - Submission - Bot - Ophidian’s Reach.xml",
   "product": "Other plugins/Darkglass Ultra",
   "category": "Distortion",
   "band": "",
   "preset_name": "Heavy - Rhy - Submission - Bot - Ophidian’s Reach",
-  "file_format": "other",
-  "amp_channel": "",
-  "amp_gain": null
+  "file_format": "xml",
+  "amp_channel": "DarkglassUltraPreset",
+  "amp_gain": 0.83
  },
  {
   "path": "Other plugins/Darkglass Ultra/Distortion/Heavy - Rhy - Submission - Top - Ophidian’s Reach.xml",
@@ -10655,19 +10665,9 @@
   "category": "Distortion",
   "band": "",
   "preset_name": "Heavy - Rhy - Submission - Top - Ophidian’s Reach",
-  "file_format": "other",
-  "amp_channel": "",
-  "amp_gain": null
- },
- {
-  "path": "Other plugins/Darkglass Ultra/Unsorted/Doki - Scooped Rock Bass.xml",
-  "product": "Other plugins/Darkglass Ultra",
-  "category": "Unsorted",
-  "band": "",
-  "preset_name": "Doki - Scooped Rock Bass",
-  "file_format": "other",
-  "amp_channel": "",
-  "amp_gain": null
+  "file_format": "xml",
+  "amp_channel": "DarkglassUltraPreset",
+  "amp_gain": 0.88
  },
  {
   "path": "Other plugins/Fortin Cali/Distortion/Early Grave.xml",
@@ -10735,7 +10735,7 @@
   "category": "Unsorted",
   "band": "",
   "preset_name": "Log Redneck LTD Br PU tone knob bright",
-  "file_format": "other",
+  "file_format": "xml",
   "amp_channel": "",
   "amp_gain": null
  },
@@ -10745,7 +10745,7 @@
   "category": "Unsorted",
   "band": "",
   "preset_name": "Vogg Wannabe GTR RHY 1",
-  "file_format": "other",
+  "file_format": "xml",
   "amp_channel": "",
   "amp_gain": null
  },
@@ -10796,7 +10796,7 @@
   "band": "",
   "preset_name": "Example Clean PR12",
   "file_format": "new",
-  "amp_channel": "ac20",
+  "amp_channel": "pr12",
   "amp_gain": null
  },
  {
@@ -10806,7 +10806,7 @@
   "band": "",
   "preset_name": "AC20 Atlas Topology",
   "file_format": "new",
-  "amp_channel": "sw50r",
+  "amp_channel": "ac20",
   "amp_gain": null
  },
  {
@@ -10816,7 +10816,7 @@
   "band": "",
   "preset_name": "SW50R Atlas Topology",
   "file_format": "new",
-  "amp_channel": "pr12",
+  "amp_channel": "sw50r",
   "amp_gain": null
  },
  {
