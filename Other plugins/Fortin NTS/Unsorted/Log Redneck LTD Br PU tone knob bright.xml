@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<NerualDSPFortinSTNPreset Version="1.0">
+  <Parameter input_gain="0.69550746679306030273" output_gain="0.75873541831970214844"
+             routing="0.00000000000000000000" oversampling="1.00000000000000000000"
+             channel="0.00000000000000000000" pedal_section_bypass="1.00000000000000000000"
+             booster_bypass="0.00000000000000000000" booster="0.48439183831214904785"
+             zuul_bypass="1.00000000000000000000" zuul="0.50900006294250488281"
+             ts_bypass="1.00000000000000000000" tsDrive="0.29200002551078796387"
+             tsTone="1.00000000000000000000" tsVolume="0.47600001096725463867"
+             head_bypass="1.00000000000000000000" gainDrive="0.55000001192092895508"
+             girth="0.81021875143051147461" grind="0.37999999523162841797"
+             kill_switch="0.00000000000000000000" trebleDrive="0.71999996900558471680"
+             midDrive="0.50999999046325683594" bassDrive="0.65999996662139892578"
+             volDrive="0.50000000000000000000" gainClean="0.50000000000000000000"
+             bright_switch="1.00000000000000000000" trebleClean="0.50000000000000000000"
+             midClean="0.50000000000000000000" bassClean="0.50000000000000000000"
+             volClean="0.50000000000000000000" master="0.30000001192092895508"
+             presence="0.47999998927116394043" depth="0.77999997138977050781"
+             cabsim_bypass="1.00000000000000000000" cabsim1_enabled="1.00000000000000000000"
+             cabsim1_gain="0.90016639232635498047" cabsim1_micaxis="0.34400001168251037598"
+             cabsim1_micdistance="0.00000000000000000000" cabsim1_pan="0.50000000000000000000"
+             cabsim1_mictype="0.00000000000000000000" cabsim1_phaseinv="0.00000000000000000000"
+             cabsim2_enabled="1.00000000000000000000" cabsim2_gain="0.80033278465270996094"
+             cabsim2_micaxis="0.75000000000000000000" cabsim2_micdistance="0.00000000000000000000"
+             cabsim2_pan="0.50000000000000000000" cabsim2_mictype="0.66666668653488159180"
+             cabsim2_phaseinv="0.00000000000000000000" noiseGate="0.16666667163372039795"/>
+  <Information PresetName="Log Redneck LTD Br PU tone knob bright" IR1FilePath=""
+               IR2FilePath="" panelView="2"/>
+</NerualDSPFortinSTNPreset>

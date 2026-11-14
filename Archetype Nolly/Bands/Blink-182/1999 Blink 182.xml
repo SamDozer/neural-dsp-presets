@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+nolly-x version  1.0.2 name 1999 Blink 182 isFavorite appModel selectedCab 2 selectedAmp 1 ampCabLinkedState true subModels  midiMap  subModels   listElements   preset  subModels   fixedParameters  subModels   parameters  inputGain 0 transpose 0 outputGain 
+-2.30417 doublerActive  false gateActive true gateThreshold 
+-58.6778 doublerSpread 3 subModels   preFXParameters sectionActive true subModels  compressor compressorCompression 	0.57712 compressorLevel 0.5 compressorActive true compressorAttack true subModels   overdrive1 overdrive1Tone 
+0.540303 overdrive1Drive 0 overdrive1Level 
+0.917012 overdrive1Bright true overdrive1Active  false subModels   preDelay  preDelayMix 0.5 preDelayFeedback 
+0.143772 preDelayTime 80 preDelaySyncNote 10 preDelaySync true preDelayTone 0.5 preDelayActive  false subModels   overdrive2 overdrive2Gain 0 overdrive2Active  false overdrive2Level 
+0.897861 overdrive2Bass 
+0.592849 overdrive2Treble 
+0.546229 subModels   eqParameters sectionActive true subModels  crunchEQ 
+crunchEQBand5 
+-1.91788 crunchEQType true crunchEQHpf 	121.753 crunchEQBand1 0 crunchEQBand2 
+0.174103 crunchEQBand3 	-1.3928 crunchEQBand4 	-3.1338 crunchEQBand6 
+0.870503 crunchEQBand7 
+0.174097 crunchEQBand8 
+-0.174103 crunchEQLpf 	11793.8 crunchEQBand9 
+-0.696407 crunchEQActive true subModels   cleanEQ 
+cleanEQType true cleanEQBand5 0 cleanEQHpf 20 cleanEQBand1 0 cleanEQBand2 0 cleanEQBand3 0 cleanEQBand4 0 cleanEQBand6 0 cleanEQBand7 0 cleanEQBand8 0 cleanEQLpf  20000 cleanEQBand9 0 cleanEQActive true subModels   rhythmEQ 
+rhythmEQType true rhythmEQBand1 
+0.218182 rhythmEQBand5 
+0.218182 rhythmEQHpf 20 rhythmEQBand2 	1.74545 rhythmEQBand3 
+0.436364 rhythmEQBand4 
+0.436364 rhythmEQBand6 	1.09091 rhythmEQBand7 
+0.218182 rhythmEQBand8 	1.09091 rhythmEQBand9 0 rhythmEQLpf  20000 rhythmEQActive true subModels   leadEQ 
+leadEQBand1 0 leadEQType true leadEQBand5 0 leadEQHpf 20 leadEQBand2 0 leadEQBand3 0 leadEQBand4 0 leadEQBand6 0.00703125 leadEQBand7 0 leadEQBand8 0 leadEQBand9 0 leadEQLpf  20000 leadEQActive true subModels   cabParameters #leftCab0ChosenIRFilePath  leftCab1MicType 4 rightCabMicLevel 
+0.390462 sectionActive true leftCabActive true leftCab0MicType 6 leftCab2MicType 10 leftCabStereo true leftCab3MicType 6 leftCab1ChosenIRFilePath  leftCab2ChosenIRFilePath  leftCabDistance 
+0.102857 leftCab3ChosenIRFilePath  leftCabPosition 
+0.125714 leftCabMicLevel 
+-0.805776 leftCabPan 
+-4.62722 leftCabPhase  false leftRoomActive  false leftRoomMicLevel 
+-13.3442 rightCabActive true rightCab0MicType 9 rightCab1MicType 0 rightCab2MicType 0 rightCab3MicType 9 rightCab0ChosenIRFilePath  rightCab1ChosenIRFilePath WC:\Users\drewb\Downloads\PlugIns\IRs\Free IRs\ML Sound Lab's BEST IR IN THE WORLD.wav rightCab2ChosenIRFilePath \C:\Users\drewb\Downloads\PlugIns\IRs\Free IRs\ZETA IR Pack\Mesa 4x12 SPKR 1 position 1.wav rightCab3ChosenIRFilePath  rightCabPosition 
+0.212856 rightCabDistance 
+0.114286 rightCabPan 	5.24418 rightCabStereo true rightCabPhase  false rightRoomActive true rightRoomMicLevel 
+-13.7742 subModels   ampParameters sectionActive true subModels  crunchAmp 	crunchBright true crunchGain 
+0.574448 crunchDepth 
+0.620172 crunchBass 
+0.759657 crunchTreble 
+0.735077 crunchMid 
+0.872326 crunchPresence 
+0.709543 crunchMaster 
+0.742017 crunchOutput  0.616 subModels   cleanAmp  cleanBright true cleanGain  0.712 cleanBass 
+0.209137 cleanTreble 0.7452 cleanMid  0.652 cleanMaster 
+0.214565 cleanOutput 
+0.546318 subModels   rhythmAmp rhythmGain 	0.21289 rhythmBass 0.5 rhythmResonance 
+0.552089 rhythmMid 0.5 rhythmTreble 0.5 rhythmOutput 
+0.854662 rhythmPresence 
+0.419879 rhythmMaster 
+0.297209 subModels   leadAmp leadGain 
+0.666513 leadBass 0.5 leadMid 0.5 leadTreble 0.5 leadMaster 0.5 leadOutput 
+0.736479 subModels   postFXParameters sectionActive true subModels  postDelay 
+postDelayLowCut 	177.505 postDelayMix 
+0.211824 postDelaySync 1 postDelayPingPong  false postDelayFeedback 0.5 postDelayTime 500 postDelaySyncNote 13 postDelayModulation 0.5 postDelayHighCut 3094.1 postDelayActive  false postDelayTempo 120 subModels   reverb reverbMix 
+0.156178 reverbLowCut 
+0.423153 reverbDecay 5500 reverbHighCut 
+0.256217 reverbActive  false subModels   tunerParameters  subModels   metronomeParameters  subModels   meters  subModels   
