@@ -1,0 +1,11 @@
+# Neural DSP presets (sorted)
+
+> Free, de-duplicated collection of ~1,000 Neural DSP plugin presets (Archetype Nolly X, Plini, Gojira X, Petrucci X, Misha Mansoor X, Cory Wong X, Tim Henson X, Abasi, Mateus Asato X, John Mayer X, Rabea X, Fortin Nameless, Soldano SLO-100, Parallax, Darkglass, Mesa Mark IIC+) sorted into Clean, Distortion, Acoustic and Bands. Includes Python tools that parse the binary preset format and classify tones, and a forum downloader.
+
+## Files
+- [README.md](README.md): overview, layout, install
+- [presets_index.json](presets_index.json) / [presets_index.csv](presets_index.csv): machine-readable index (path, product, category, band, preset name, amp channel, gain)
+- [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md): preset file format and how clean/distortion is detected
+- [tools/neuraldsp_presets.py](tools/neuraldsp_presets.py): analyze + sort presets (stdlib only)
+- [tools/download_presets.py](tools/download_presets.py): download attachments from a Neural DSP forum thread
+- [THIRD_PARTY.md](THIRD_PARTY.md): sources and licenses
