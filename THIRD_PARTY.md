@@ -18,3 +18,4 @@ Presets in this repo are community-made. Credit belongs to their authors; if you
 ## Other free sources
 
 - "R.B." presets (Petrucci, Tim Henson) from Ralf's Bendrats' free download post: https://www.ralfsbendrats.com/post/some-neural-dsp-plugin-presets-you-can-download-for-free
+- Omega Station free packs (Gumroad, €0+): Gojira X Metalcore / Brutal Death Metal / Old School Death Metal, Nolly X Post Black Metal, Cory Wong X Post Rock - https://omegastation.gumroad.com

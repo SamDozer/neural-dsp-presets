@@ -1060,6 +1060,86 @@
   "amp_gain": null
  },
  {
+  "path": "Archetype Cory Wong X/Clean/Post Rock 1 - A3C1 - 121-160.xml",
+  "product": "Archetype Cory Wong X",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "Post Rock 1 - A3C1 - 121-160",
+  "file_format": "new",
+  "amp_channel": "snob",
+  "amp_gain": 0.0
+ },
+ {
+  "path": "Archetype Cory Wong X/Clean/Post Rock 1 - A3C3 - 121-421.xml",
+  "product": "Archetype Cory Wong X",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "Post Rock 1 - A3C3 - 121-421",
+  "file_format": "new",
+  "amp_channel": "snob",
+  "amp_gain": 0.0
+ },
+ {
+  "path": "Archetype Cory Wong X/Clean/Post Rock 2 - A2C2 - 160-414.xml",
+  "product": "Archetype Cory Wong X",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "Post Rock 2 - A2C2 - 160-414",
+  "file_format": "new",
+  "amp_channel": "funk",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Cory Wong X/Clean/Post Rock 2 - A2C3 - 421-57.xml",
+  "product": "Archetype Cory Wong X",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "Post Rock 2 - A2C3 - 421-57",
+  "file_format": "new",
+  "amp_channel": "funk",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Cory Wong X/Clean/Post Rock 3 - A2C1 - 57-160.xml",
+  "product": "Archetype Cory Wong X",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "Post Rock 3 - A2C1 - 57-160",
+  "file_format": "new",
+  "amp_channel": "funk",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Cory Wong X/Clean/Post Rock 3 - A2C2 - 121-57.xml",
+  "product": "Archetype Cory Wong X",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "Post Rock 3 - A2C2 - 121-57",
+  "file_format": "new",
+  "amp_channel": "funk",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Cory Wong X/Clean/Post Rock Bass 1 - A3.xml",
+  "product": "Archetype Cory Wong X",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "Post Rock Bass 1 - A3",
+  "file_format": "new",
+  "amp_channel": "snob",
+  "amp_gain": 0.0
+ },
+ {
+  "path": "Archetype Cory Wong X/Clean/Post Rock Bass 2 - A1.xml",
+  "product": "Archetype Cory Wong X",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "Post Rock Bass 2 - A1",
+  "file_format": "new",
+  "amp_channel": "clean",
+  "amp_gain": null
+ },
+ {
   "path": "Archetype Cory Wong X/Clean/PostPunk DarkChorus.xml",
   "product": "Archetype Cory Wong X",
   "category": "Clean",
@@ -1840,6 +1920,76 @@
   "amp_gain": null
  },
  {
+  "path": "Archetype Gojira/Clean/OSDM 1 - A2C2 - 421-121.xml",
+  "product": "Archetype Gojira",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "OSDM 1 - A2C2 - 421-121",
+  "file_format": "new",
+  "amp_channel": "rhythm",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Gojira/Clean/OSDM 1 - A2C2 - 57-184.xml",
+  "product": "Archetype Gojira",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "OSDM 1 - A2C2 - 57-184",
+  "file_format": "new",
+  "amp_channel": "rhythm",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Gojira/Clean/OSDM 1 - A2C3 - 421-414.xml",
+  "product": "Archetype Gojira",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "OSDM 1 - A2C3 - 421-414",
+  "file_format": "new",
+  "amp_channel": "rhythm",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Gojira/Clean/OSDM 1 - A2C3 - 57-121.xml",
+  "product": "Archetype Gojira",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "OSDM 1 - A2C3 - 57-121",
+  "file_format": "new",
+  "amp_channel": "rhythm",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Gojira/Clean/OSDM 3 - A1C1 - 57-121.xml",
+  "product": "Archetype Gojira",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "OSDM 3 - A1C1 - 57-121",
+  "file_format": "new",
+  "amp_channel": "clean",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Gojira/Clean/OSDM 3 - A1C2 - 57-160.xml",
+  "product": "Archetype Gojira",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "OSDM 3 - A1C2 - 57-160",
+  "file_format": "new",
+  "amp_channel": "clean",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Gojira/Clean/OSDM 3 - A1C3 - 57-414.xml",
+  "product": "Archetype Gojira",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "OSDM 3 - A1C3 - 57-414",
+  "file_format": "new",
+  "amp_channel": "clean",
+  "amp_gain": null
+ },
+ {
   "path": "Archetype Gojira/Clean/Octaver.xml",
   "product": "Archetype Gojira",
   "category": "Clean",
@@ -2080,6 +2230,116 @@
   "amp_gain": null
  },
  {
+  "path": "Archetype Gojira/Distortion/Brutal Death Metal 1 - A2C2 - 57-414.xml",
+  "product": "Archetype Gojira",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "&",
+  "file_format": "new",
+  "amp_channel": "rhythm",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Gojira/Distortion/Brutal Death Metal 1 - A2C3 - 57-184.xml",
+  "product": "Archetype Gojira",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "&",
+  "file_format": "new",
+  "amp_channel": "rhythm",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Gojira/Distortion/Brutal Death Metal 2 - A3C1 - 184-160.xml",
+  "product": "Archetype Gojira",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "'",
+  "file_format": "new",
+  "amp_channel": "lead",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Gojira/Distortion/Brutal Death Metal 2 - A3C2 - 57-121.xml",
+  "product": "Archetype Gojira",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "&",
+  "file_format": "new",
+  "amp_channel": "lead",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Gojira/Distortion/Brutal Death Metal 2 - A3C3 - 414-160.xml",
+  "product": "Archetype Gojira",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "'",
+  "file_format": "new",
+  "amp_channel": "lead",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Gojira/Distortion/Brutal Death Metal 3 - A1C1 - 121-421.xml",
+  "product": "Archetype Gojira",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "'",
+  "file_format": "new",
+  "amp_channel": "clean",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Gojira/Distortion/Brutal Death Metal 3 - A1C2 - 421-414.xml",
+  "product": "Archetype Gojira",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "'",
+  "file_format": "new",
+  "amp_channel": "clean",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Gojira/Distortion/Brutal Death Metal 3 - A1C3 - 57-160.xml",
+  "product": "Archetype Gojira",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "&",
+  "file_format": "new",
+  "amp_channel": "clean",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Gojira/Distortion/Brutal Death Metal 4 - A3C1 - 414-121.xml",
+  "product": "Archetype Gojira",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "'",
+  "file_format": "new",
+  "amp_channel": "lead",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Gojira/Distortion/Brutal Death Metal 4 - A3C2 - 121-160.xml",
+  "product": "Archetype Gojira",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "'",
+  "file_format": "new",
+  "amp_channel": "lead",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Gojira/Distortion/Brutal Death Metal 4 - A3C3 - 184-421.xml",
+  "product": "Archetype Gojira",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "'",
+  "file_format": "new",
+  "amp_channel": "lead",
+  "amp_gain": null
+ },
+ {
   "path": "Archetype Gojira/Distortion/Djent Tone.xml",
   "product": "Archetype Gojira",
   "category": "Distortion",
@@ -2240,6 +2500,86 @@
   "amp_gain": null
  },
  {
+  "path": "Archetype Gojira/Distortion/Metalcore Rhythm 1 - A2C2 - 421-414.xml",
+  "product": "Archetype Gojira",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "%",
+  "file_format": "new",
+  "amp_channel": "rhythm",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Gojira/Distortion/Metalcore Rhythm 1 - A2C3 - 57-121.xml",
+  "product": "Archetype Gojira",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "$",
+  "file_format": "new",
+  "amp_channel": "rhythm",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Gojira/Distortion/Metalcore Rhythm 2 - A3C1 - 121-421.xml",
+  "product": "Archetype Gojira",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "%",
+  "file_format": "new",
+  "amp_channel": "lead",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Gojira/Distortion/Metalcore Rhythm 2 - A3C2 - 57-160.xml",
+  "product": "Archetype Gojira",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "$",
+  "file_format": "new",
+  "amp_channel": "lead",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Gojira/Distortion/Metalcore Rhythm 2 - A3C3 - 184-121.xml",
+  "product": "Archetype Gojira",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "%",
+  "file_format": "new",
+  "amp_channel": "lead",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Gojira/Distortion/Metalcore Rhythm 3 - A3C1 - 121-421.xml",
+  "product": "Archetype Gojira",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "%",
+  "file_format": "new",
+  "amp_channel": "lead",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Gojira/Distortion/Metalcore Rhythm 3 - A3C2 - 121-160.xml",
+  "product": "Archetype Gojira",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "%",
+  "file_format": "new",
+  "amp_channel": "lead",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Gojira/Distortion/Metalcore Rhythm 3 - A3C3 - 414-121.xml",
+  "product": "Archetype Gojira",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "%",
+  "file_format": "new",
+  "amp_channel": "lead",
+  "amp_gain": null
+ },
+ {
   "path": "Archetype Gojira/Distortion/Modern metalcore NDSP.xml",
   "product": "Archetype Gojira",
   "category": "Distortion",
@@ -2258,6 +2598,36 @@
   "file_format": "old",
   "amp_channel": "lead",
   "amp_gain": 0.24
+ },
+ {
+  "path": "Archetype Gojira/Distortion/OSDM 2 - A3C1 - 121-421.xml",
+  "product": "Archetype Gojira",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "OSDM 2 - A3C1 - 121-421",
+  "file_format": "new",
+  "amp_channel": "lead",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Gojira/Distortion/OSDM 2 - A3C2 - 421-160.xml",
+  "product": "Archetype Gojira",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "OSDM 2 - A3C2 - 421-160",
+  "file_format": "new",
+  "amp_channel": "lead",
+  "amp_gain": null
+ },
+ {
+  "path": "Archetype Gojira/Distortion/OSDM 2 - A3C3 - 57-421.xml",
+  "product": "Archetype Gojira",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "OSDM 2 - A3C3 - 57-421",
+  "file_format": "new",
+  "amp_channel": "lead",
+  "amp_gain": null
  },
  {
   "path": "Archetype Gojira/Distortion/Omega Rhythm Skyline_Flynn.xml",
@@ -4030,6 +4400,26 @@
   "amp_gain": 0.48
  },
  {
+  "path": "Archetype Nolly X/Clean/Post Metal Clean 1 - A1C1 - 414-121.xml",
+  "product": "Archetype Nolly X",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "%",
+  "file_format": "new",
+  "amp_channel": "clean",
+  "amp_gain": 0.36
+ },
+ {
+  "path": "Archetype Nolly X/Clean/Post Metal Clean 2 - A1C1 - 57-414.xml",
+  "product": "Archetype Nolly X",
+  "category": "Clean",
+  "band": "",
+  "preset_name": "$",
+  "file_format": "new",
+  "amp_channel": "clean",
+  "amp_gain": 0.35
+ },
+ {
   "path": "Archetype Nolly X/Clean/Serenity (2).xml",
   "product": "Archetype Nolly X",
   "category": "Clean",
@@ -4898,6 +5288,186 @@
   "file_format": "new",
   "amp_channel": "rhythm",
   "amp_gain": 0.45
+ },
+ {
+  "path": "Archetype Nolly X/Distortion/Post Black Metal Dist 1 - A3C2 - 121-421.xml",
+  "product": "Archetype Nolly X",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "*",
+  "file_format": "new",
+  "amp_channel": "rhythm",
+  "amp_gain": 0.33
+ },
+ {
+  "path": "Archetype Nolly X/Distortion/Post Black Metal Dist 2 - A3C3 - 160-184.xml",
+  "product": "Archetype Nolly X",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "*",
+  "file_format": "new",
+  "amp_channel": "rhythm",
+  "amp_gain": 0.37
+ },
+ {
+  "path": "Archetype Nolly X/Distortion/Post Black Metal Dist 2 - A3C4 - 57-414.xml",
+  "product": "Archetype Nolly X",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": ")",
+  "file_format": "new",
+  "amp_channel": "rhythm",
+  "amp_gain": 0.37
+ },
+ {
+  "path": "Archetype Nolly X/Distortion/Post Black Metal Dist 3 - A3C2 - 57-184.xml",
+  "product": "Archetype Nolly X",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": ")",
+  "file_format": "new",
+  "amp_channel": "rhythm",
+  "amp_gain": 0.38
+ },
+ {
+  "path": "Archetype Nolly X/Distortion/Post Black Metal Dist 3 - A3C4 - 57-184.xml",
+  "product": "Archetype Nolly X",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": ")",
+  "file_format": "new",
+  "amp_channel": "rhythm",
+  "amp_gain": 0.38
+ },
+ {
+  "path": "Archetype Nolly X/Distortion/Post Black Metal Lead 1 - A3C4 - 57-421.xml",
+  "product": "Archetype Nolly X",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": ")",
+  "file_format": "new",
+  "amp_channel": "rhythm",
+  "amp_gain": 0.3
+ },
+ {
+  "path": "Archetype Nolly X/Distortion/Post Black Metal Lead 2 - A4C4 - 57-421.xml",
+  "product": "Archetype Nolly X",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": ")",
+  "file_format": "new",
+  "amp_channel": "lead",
+  "amp_gain": 0.31
+ },
+ {
+  "path": "Archetype Nolly X/Distortion/Post Black Metal Lead 3 - A3C2 - 57-421.xml",
+  "product": "Archetype Nolly X",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": ")",
+  "file_format": "new",
+  "amp_channel": "rhythm",
+  "amp_gain": 0.3
+ },
+ {
+  "path": "Archetype Nolly X/Distortion/Post Black Metal Lead 3 - A3C3 - 57.xml",
+  "product": "Archetype Nolly X",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "%",
+  "file_format": "new",
+  "amp_channel": "rhythm",
+  "amp_gain": 0.3
+ },
+ {
+  "path": "Archetype Nolly X/Distortion/Post Black Metal Lead 4 - A3C3 - 414-57.xml",
+  "product": "Archetype Nolly X",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": ")",
+  "file_format": "new",
+  "amp_channel": "rhythm",
+  "amp_gain": 0.37
+ },
+ {
+  "path": "Archetype Nolly X/Distortion/Post Metal Crunch 1 - A2C2 - 421-160.xml",
+  "product": "Archetype Nolly X",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "&",
+  "file_format": "new",
+  "amp_channel": "crunch",
+  "amp_gain": 0.28
+ },
+ {
+  "path": "Archetype Nolly X/Distortion/Post Metal Crunch 2 - A4C4 - 57-414.xml",
+  "product": "Archetype Nolly X",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "%",
+  "file_format": "new",
+  "amp_channel": "lead",
+  "amp_gain": 0.15
+ },
+ {
+  "path": "Archetype Nolly X/Distortion/Post Metal Dist 1 - A2C2 - 421.xml",
+  "product": "Archetype Nolly X",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": " ",
+  "file_format": "new",
+  "amp_channel": "crunch",
+  "amp_gain": 0.42
+ },
+ {
+  "path": "Archetype Nolly X/Distortion/Post Metal Dist 2 - A2C3 - 57-121.xml",
+  "product": "Archetype Nolly X",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "#",
+  "file_format": "new",
+  "amp_channel": "crunch",
+  "amp_gain": 0.69
+ },
+ {
+  "path": "Archetype Nolly X/Distortion/Post Metal Dist 3 - A3C2 - 57-421.xml",
+  "product": "Archetype Nolly X",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "#",
+  "file_format": "new",
+  "amp_channel": "rhythm",
+  "amp_gain": 0.41
+ },
+ {
+  "path": "Archetype Nolly X/Distortion/Post Metal Dist 3 - A3C3 - 57-160.xml",
+  "product": "Archetype Nolly X",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "#",
+  "file_format": "new",
+  "amp_channel": "rhythm",
+  "amp_gain": 0.41
+ },
+ {
+  "path": "Archetype Nolly X/Distortion/Post Metal Dist 3 - A3C4 - 57-121.xml",
+  "product": "Archetype Nolly X",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "#",
+  "file_format": "new",
+  "amp_channel": "rhythm",
+  "amp_gain": 0.41
+ },
+ {
+  "path": "Archetype Nolly X/Distortion/Post Metal Dist 4 - A4C2 - 121-414.xml",
+  "product": "Archetype Nolly X",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "$",
+  "file_format": "new",
+  "amp_channel": "lead",
+  "amp_gain": 0.44
  },
  {
   "path": "Archetype Nolly X/Distortion/Punk Rawk 1 (2).xml",
@@ -10826,7 +11396,7 @@
   "band": "",
   "preset_name": "AC20 Atlas Topology",
   "file_format": "new",
-  "amp_channel": "pr12",
+  "amp_channel": "ac20",
   "amp_gain": null
  },
  {
@@ -10836,7 +11406,7 @@
   "band": "",
   "preset_name": "SW50R Atlas Topology",
   "file_format": "new",
-  "amp_channel": "ac20",
+  "amp_channel": "pr12",
   "amp_gain": null
  },
  {
