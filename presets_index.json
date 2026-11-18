@@ -7210,6 +7210,16 @@
   "amp_gain": null
  },
  {
+  "path": "Archetype Petrucci X/Distortion/R.B. 01.xml",
+  "product": "Archetype Petrucci X",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "R.B. 01",
+  "file_format": "old",
+  "amp_channel": "lead",
+  "amp_gain": 0.5
+ },
+ {
   "path": "Archetype Petrucci X/Distortion/RHY Jan 2026 (2).xml",
   "product": "Archetype Petrucci X",
   "category": "Distortion",
@@ -9840,6 +9850,16 @@
   "amp_gain": 0.33
  },
  {
+  "path": "Archetype Tim Henson X/Distortion/R.B. 1.xml",
+  "product": "Archetype Tim Henson X",
+  "category": "Distortion",
+  "band": "",
+  "preset_name": "R.B. 1",
+  "file_format": "old",
+  "amp_channel": "lead",
+  "amp_gain": 0.46
+ },
+ {
   "path": "Archetype Tim Henson X/Distortion/Reverie Scott.xml",
   "product": "Archetype Tim Henson X",
   "category": "Distortion",
@@ -10796,7 +10816,7 @@
   "band": "",
   "preset_name": "Example Clean PR12",
   "file_format": "new",
-  "amp_channel": "pr12",
+  "amp_channel": "sw50r",
   "amp_gain": null
  },
  {
@@ -10806,7 +10826,7 @@
   "band": "",
   "preset_name": "AC20 Atlas Topology",
   "file_format": "new",
-  "amp_channel": "ac20",
+  "amp_channel": "pr12",
   "amp_gain": null
  },
  {
@@ -10816,7 +10836,7 @@
   "band": "",
   "preset_name": "SW50R Atlas Topology",
   "file_format": "new",
-  "amp_channel": "sw50r",
+  "amp_channel": "ac20",
   "amp_gain": null
  },
  {

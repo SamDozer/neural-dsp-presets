@@ -14,3 +14,7 @@ Presets in this repo are community-made. Credit belongs to their authors; if you
 - https://github.com/headdirt/ndsp_preset_tool - read, diff, clone and edit Neural DSP preset files (GPL-3.0).
 - https://github.com/YoavBZ/neuraldsp-preset-generator - Claude Code plugin to generate/match/edit presets (MIT).
 - https://github.com/DevangBordoloi/neural-tone-mcp - turn a song/recording into a Neural DSP preset via an MCP server.
+
+## Other free sources
+
+- "R.B." presets (Petrucci, Tim Henson) from Ralf's Bendrats' free download post: https://www.ralfsbendrats.com/post/some-neural-dsp-plugin-presets-you-can-download-for-free

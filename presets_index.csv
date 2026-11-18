@@ -720,6 +720,7 @@ Archetype Petrucci X/Distortion/Orion Rhy (2).xml,Archetype Petrucci X,Distortio
 Archetype Petrucci X/Distortion/Paralyzed - Rhythm (2).xml,Archetype Petrucci X,Distortion,,Paralyzed - Rhythm (2),old,lead,0.9
 Archetype Petrucci X/Distortion/Petrucci Rhythm.xml,Archetype Petrucci X,Distortion,,Best Rhythm,new,lead,0.5
 Archetype Petrucci X/Distortion/Phased Lead.xml,Archetype Petrucci X,Distortion,,Phased Lead,old,,
+Archetype Petrucci X/Distortion/R.B. 01.xml,Archetype Petrucci X,Distortion,,R.B. 01,old,lead,0.5
 Archetype Petrucci X/Distortion/RHY Jan 2026 (2).xml,Archetype Petrucci X,Distortion,,RHY Jan 2026,new,lead,0.5
 Archetype Petrucci X/Distortion/RedLetter - AB Red Letter Rhythm.xml,Archetype Petrucci X,Distortion,,RedLetter - AB Red Letter Rhythm,old,lead,0.5
 Archetype Petrucci X/Distortion/RedLetter - AR Red Letter Big Lead.xml,Archetype Petrucci X,Distortion,,RedLetter - AR Red Letter Big Lead,old,,
@@ -983,6 +984,7 @@ Archetype Tim Henson X/Distortion/Nice Solid Hi Gain.xml,Archetype Tim Henson X,
 Archetype Tim Henson X/Distortion/POSITIONS V1.xml,Archetype Tim Henson X,Distortion,,POSITIONS V1,old,lead,0.5
 Archetype Tim Henson X/Distortion/Personal Jesus - Depeche Mode.xml,Archetype Tim Henson X,Distortion,,PersonalJesus-GTR,new,acoustic,0.5
 Archetype Tim Henson X/Distortion/Punk from 90’s (2).xml,Archetype Tim Henson X,Distortion,,Punk from 90’s (2),old,lead,0.33
+Archetype Tim Henson X/Distortion/R.B. 1.xml,Archetype Tim Henson X,Distortion,,R.B. 1,old,lead,0.46
 Archetype Tim Henson X/Distortion/Reverie Scott.xml,Archetype Tim Henson X,Distortion,,Reverie Scott,old,lead,0.69
 Archetype Tim Henson X/Distortion/Rock Tone.xml,Archetype Tim Henson X,Distortion,,Rock Tone,old,lead,1.0
 Archetype Tim Henson X/Distortion/Sacrifice The Weeknd.xml,Archetype Tim Henson X,Distortion,,Weeknd Sacrifice,new,lead,0.66
@@ -1078,9 +1080,9 @@ Other plugins/Mesa Mark IIC+/Bands/Metallica/Master of Puppets (Rasmussen Flemin
 Other plugins/Mesa Mark IIC+/Unsorted/Down the Middle Mayer.xml,Other plugins/Mesa Mark IIC+,Unsorted,,Down the Middle Mayer,old,,
 Other plugins/Mesa Mark IIC+/Unsorted/Images and Words Rhythm.xml,Other plugins/Mesa Mark IIC+,Unsorted,,Images and Words Rhythm,old,,
 Other plugins/Mesa Mark IIC+/Unsorted/Rasmussen Notes-IIC+.xml,Other plugins/Mesa Mark IIC+,Unsorted,,Rasmussen Notes-IIC+,old,,
-Other plugins/Morgan (MIT samples from YoavBZ)/Clean/Example Clean PR12.xml,Other plugins/Morgan (MIT samples from YoavBZ),Clean,,Example Clean PR12,new,pr12,
-Other plugins/Morgan (MIT samples from YoavBZ)/Distortion/AC20 Atlas Topology.xml,Other plugins/Morgan (MIT samples from YoavBZ),Distortion,,AC20 Atlas Topology,new,ac20,
-Other plugins/Morgan (MIT samples from YoavBZ)/Distortion/SW50R Atlas Topology.xml,Other plugins/Morgan (MIT samples from YoavBZ),Distortion,,SW50R Atlas Topology,new,sw50r,
+Other plugins/Morgan (MIT samples from YoavBZ)/Clean/Example Clean PR12.xml,Other plugins/Morgan (MIT samples from YoavBZ),Clean,,Example Clean PR12,new,sw50r,
+Other plugins/Morgan (MIT samples from YoavBZ)/Distortion/AC20 Atlas Topology.xml,Other plugins/Morgan (MIT samples from YoavBZ),Distortion,,AC20 Atlas Topology,new,pr12,
+Other plugins/Morgan (MIT samples from YoavBZ)/Distortion/SW50R Atlas Topology.xml,Other plugins/Morgan (MIT samples from YoavBZ),Distortion,,SW50R Atlas Topology,new,ac20,
 Other plugins/Omega Granophyre/Clean/These Cleans.xml,Other plugins/Omega Granophyre,Clean,,These Cleans,old,,
 Other plugins/Omega Granophyre/Distortion/Omega Chainsaw.xml,Other plugins/Omega Granophyre,Distortion,,Omega Chainsaw,old,,
 Other plugins/Soldano SLO-100/Bands/Pink Floyd/Comfortably Numb Clean.xml,Other plugins/Soldano SLO-100,Bands,Pink Floyd,Comfortably Numb Clean,new,,
